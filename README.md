@@ -1,1 +1,3 @@
 # core-iso
+
+configuración archiso
