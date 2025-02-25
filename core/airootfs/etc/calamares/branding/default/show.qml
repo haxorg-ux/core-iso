@@ -38,7 +38,7 @@ Presentation
         source: "1-core.png"
         width: parent.width; height: parent.height
         verticalAlignment: Image.AlignTop
-        fillMode: Image.PreserveAspectFit
+        fillMode: Image.Stretch
         anchors.fill: parent
     	}
 
@@ -62,8 +62,8 @@ Presentation
         source: "1-core.png"
         width: parent.width; height: parent.height
         verticalAlignment: Image.AlignTop
-        fillMode: Image.PreserveAspectFit
-        anchors.centerIn: parent
+        fillMode: Image.Stretch
+        anchors.fill: parent
     	}
 
     Text {
